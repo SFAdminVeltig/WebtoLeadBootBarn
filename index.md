@@ -5,7 +5,7 @@
 <!--  ----------------------------------------------------------------------  -->
 
 <META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
-
+<html>
 <!--  ----------------------------------------------------------------------  -->
 <!--  NOTE: Please add the following <FORM> element to your page.             -->
 <!--  ----------------------------------------------------------------------  -->
@@ -626,3 +626,4 @@ Store Number:<input  id="00NOv00000gLvG1" maxlength="80" name="00NOv00000gLvG1" 
 <input type="submit" name="submit">
 
 </form>
+</html>
