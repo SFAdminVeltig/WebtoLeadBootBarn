@@ -30,7 +30,7 @@
 
 <label for="email">Email</label><input  id="email" maxlength="80" name="email" size="20" type="text" /><br>
 
-<label for="company">Company</label><input  id="company" maxlength="40" name="company" size="20" type="text" /><br>
+<label for="company">Company</label><input id="company" maxlength="40" name="company" size="20" type="text" required oninvalid="this.setCustomValidity('Company is required')" oninput="this.setCustomValidity('')"/><br>
 
 <label for="country_code">Country</label><select  id="country_code" name="country_code"><option value="">--None--</option><option value="AF">AF</option>
 <option value="AX">AX</option>
