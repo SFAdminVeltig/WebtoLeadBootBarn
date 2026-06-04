@@ -623,8 +623,8 @@
 <label for="00NOv00000gLvG1">
     Store Number
     <span title="This field will be automatically set, it is only available for testing."
-          style="display:inline-block;border-radius:50%;border:1px solid #555;width:16px;height:16px;text-align:center;line-height:16px;font-size:12px;font-weight:bold;cursor:help;margin-left:4px;">
-        i
+          style="color:#0176d3;font-weight:bold;cursor:help;">
+        ⓘ
     </span>
 </label>
 <input id="00NOv00000gLvG1" maxlength="80" name="00NOv00000gLvG1" size="20" type="text" /><br>
