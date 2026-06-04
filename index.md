@@ -1,21 +1,3 @@
-<style>
-    label {
-        display: inline-block;
-        width: 100px;
-        vertical-align: top;
-    }
-
-    input[type="text"],
-    select,
-    textarea {
-        width: 220px;
-        box-sizing: border-box;
-    }
-
-    textarea {
-        height: 55px;
-    }
-</style>
 <!--  ----------------------------------------------------------------------  -->
 <!--  NOTE: Please add the following <META> element to your page <HEAD>.      -->
 <!--  If necessary, please modify the charset parameter to specify the        -->
